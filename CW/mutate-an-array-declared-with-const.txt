@@ -1,0 +1,7 @@
+const s = [5, 7, 2];
+function editInPlace() {
+ s[0] = 2;  // Assign the value 2 to the first element
+s[1] = 5;  // Assign the value 5 to the second element
+s[2] = 7;  // Assign the value 7 to the third element
+}
+editInPlace();
